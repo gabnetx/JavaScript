@@ -1,4 +1,4 @@
-'use strict'
+'use strict'    //Modo estricto
 
 var age = 18;
 var name="Gabriel";
